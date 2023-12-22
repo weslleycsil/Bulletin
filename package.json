@@ -1,6 +1,6 @@
 {
-    "name": "bulletin",
-    "description": "A Ghost theme",
+    "name": "bulletin-infra",
+    "description": "A Ghost theme adpated by Infra.expert",
     "version": "1.0.0",
     "private": true,
     "engines": {
